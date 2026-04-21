@@ -12,11 +12,11 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a 4th-year **Computer Engineering + Industrial Engineering** double major passionate about bridging AI research and real-world automation. I love digging into *why* things work the way they do — and then building systems that prove it.
+I graduated from Istanbul Bilgi University with a degree in Industrial Engineering in 2025 and I am currently a 4th-year Computer Engineering student. I am passionate about bridging the gap between artificial intelligence research and real-world automation. I enjoy delving deep into why things work the way they do and then building systems that prove it.
 
-Currently interning at **NTT DATA** on the SPICE Operations team, where I'm developing an **AI Agent + RPA automation pipeline** for SAP role assignment using UiPath and LLM-based ticket classification.
+Currently interning in a corporate company where I'm assisting an **AI Agent + RPA automation pipeline** for SAP role assignment using UiPath and LLM-based ticket classification.
 
 - 🤖 Interested in **AI Agents, NLP, MLOps, and Agentic Systems**
 - 🔬 Active researcher on an **EU-funded PRIMA project** (nano-enabled food packaging)
