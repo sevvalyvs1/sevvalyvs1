@@ -54,7 +54,7 @@ Focused on explainability, efficiency, and real-world deployment.
 
 ---
 
-### 🤖 AI Agent + RPA Automation Pipeline *(Confidential Client Project @ NTT DATA)*
+### 🤖 AI Agent + RPA Automation Pipeline *(Confidential Project)*
 > SAP Role Assignment Automation
 
 Developing an end-to-end automation system combining **UiPath RPA** with an **LLM-based AI Agent** to classify and process SAP role assignment tickets. Currently in PoC phase with tested in-scope/out-of-scope classification.
